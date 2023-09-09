@@ -12,7 +12,6 @@ Before installing the SEED VM, please do the following:
 - Install the free [VirtualBox](https://www.virtualbox.org/) software first.
 The VM has been tested on Version `6.1.16`.
 
-[./Figs/vm-windowshost.png]
 - Download the zip file `SEED-Ubuntu20.04.zip` from the
 [SEED website](https://seedsecuritylabs.org/labsetup.html), unzip it,
 and you will get a `.vdi` file. This file contains the pre-built SEED
